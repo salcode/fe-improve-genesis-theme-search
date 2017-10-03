@@ -4,7 +4,7 @@ WordPress plugin to implement the recommendations from the Yoast SEO Blog post, 
 
 ## Project URL
 
-https://github.com/salcode/fe-improve-genesis-theme-search
+https://salferrarello.com/improve-genesis-theme-search/
 
 ## Credits
 
