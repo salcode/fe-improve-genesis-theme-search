@@ -66,6 +66,9 @@ function genesis_emphasize_search_result_title( $title ) {
  * @return string       The trimmed text.
  */
 function custom_trim_excerpt( $text = '' ) {
+	if ( ! is_search() ) {
+		return $text;
+	}
 	$text = strip_shortcodes( $text );
 	$text = apply_filters( 'the_content', $text );
 	$text = str_replace( ']]>', ']]&gt;', $text );
