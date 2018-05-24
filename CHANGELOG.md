@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.1.1] - 2018-05-23
+### Changed
+- Increment version number in main PHP plugin file (this was missed with v1.0.1 and v1.1.0)
+
 ## [1.1.0] - 2018-05-23
 ### Changed
 - Restrict custom_trim_excerpt filter to only search context

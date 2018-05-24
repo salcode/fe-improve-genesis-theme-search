@@ -3,7 +3,7 @@
  * Plugin Name: Iron Code Improve Genesis Theme Search
  * Plugin URI: https://salferrarello.com/improve-genesis-theme-search/
  * Description: Modify the search results page of a Genesis theme following the recommendations on https://yoast.com/wordpress-search/.
- * Version: 1.0.0
+ * Version: 1.1.1
  * Requires PHP: 5.3
  * Author: Sal Ferrarello
  * Author URI: http://salferrarello.com/
